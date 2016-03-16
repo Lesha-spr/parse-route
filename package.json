@@ -1,0 +1,28 @@
+{
+  "name": "parse-route",
+  "version": "0.0.1",
+  "description": "Helper to parse route with params",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lesha-spr/parse-route.git"
+  },
+  "keywords": [
+    "Route",
+    "Route",
+    "parser",
+    "Parser"
+  ],
+  "author": "Oleksii An",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Lesha-spr/parse-route/issues"
+  },
+  "homepage": "https://github.com/Lesha-spr/parse-route#readme",
+  "devDependencies": {
+    "jest-cli": "^0.9.2"
+  }
+}
